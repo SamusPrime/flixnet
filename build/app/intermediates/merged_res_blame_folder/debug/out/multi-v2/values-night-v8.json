@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "175,830",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,996"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,362",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "357,526"
+                    }
+                }
+            ]
+        }
+    ]
+}

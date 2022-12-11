@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">980935758785-7tl21s2hdvc6k5jgs2c7l53u46tqu30u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">980935758785</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfmvh2FqcrkvPSZstPcuClVW6x80qE1HY</string>
+    <string name="google_app_id" translatable="false">1:980935758785:android:35b01d0e95558d5ff99540</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfmvh2FqcrkvPSZstPcuClVW6x80qE1HY</string>
+    <string name="google_storage_bucket" translatable="false">movies-app-3beca.appspot.com</string>
+    <string name="project_id" translatable="false">movies-app-3beca</string>
+</resources>

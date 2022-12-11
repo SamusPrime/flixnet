@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_logomoviedb.webp.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-hdpi\\logomoviedb.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_logomoviedb.webp.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\logomoviedb.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_logomoviedb.webp.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\logomoviedb.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_logomoviedb.webp.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-mdpi\\logomoviedb.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_logomoviedb.webp.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-xhdpi\\logomoviedb.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\drawable_backgroundsplash.webp.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\drawable\\backgroundsplash.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sebas\\Desktop\\flixnet\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Sebas\\Desktop\\flixnet\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    }
+]
