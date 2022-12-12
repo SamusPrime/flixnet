@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_netflix_responsive_ui/presentation/view/nav_screen.dart';
-import 'presentation/view/home_screen.dart';
+import 'presentation/view/nav_screen.dart';
+
 
 import 'core/util/string_constants.dart';
 

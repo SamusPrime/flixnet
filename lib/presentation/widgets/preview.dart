@@ -30,7 +30,7 @@ class Preview extends StatelessWidget {
             ),
           ),
         ),
-        Container(
+        SizedBox(
           height: 165.0,
           child: ListView.builder(
             padding: const EdgeInsets.symmetric(
