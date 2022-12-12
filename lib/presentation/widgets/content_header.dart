@@ -5,8 +5,10 @@ import '../widgets/widgets.dart';
 class ContentHeader extends StatelessWidget {
   final Content featuredContent;
 
-  const ContentHeader({Key? key, required this.featuredContent})
-      : super(key: key);
+  const ContentHeader({
+    Key? key,
+    required this.featuredContent,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -79,7 +81,12 @@ class _PlayButton extends StatelessWidget {
       onPressed: () => print('play'),
       style: const ButtonStyle(
         padding: MaterialStatePropertyAll(
-          EdgeInsets.fromLTRB(15.0, 5.0, 20.0, 5.0),
+          EdgeInsets.fromLTRB(
+            15.0,
+            5.0,
+            20.0,
+            5.0,
+          ),
         ),
         backgroundColor: MaterialStatePropertyAll(Colors.white),
       ),

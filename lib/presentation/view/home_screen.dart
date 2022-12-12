@@ -57,6 +57,41 @@ class _HomeScreenState extends State<HomeScreen> {
             SliverToBoxAdapter(
               child: ContentHeader(featuredContent: sintelContent),
             ),
+            SliverPadding(
+              padding: EdgeInsets.only(top: 20.0),
+              sliver: SliverToBoxAdapter(
+                child: Preview(
+                  key: PageStorageKey('previews'),
+                  title: 'Previews',
+                  contentList: previews,
+                ),
+              ),
+            ),
+            SliverToBoxAdapter(
+              child: ContentList(
+                key: PageStorageKey('myList'),
+                title: 'My list',
+                contentList: myList,
+              ),
+            ),
+            SliverToBoxAdapter(
+              child: ContentList(
+                key: PageStorageKey('originals'),
+                title: 'Flixnet originals',
+                contentList: originals,
+                isOriginals: true,
+              ),
+            ),
+            SliverPadding(
+              padding: EdgeInsets.only(bottom: 20.0),
+              sliver: SliverToBoxAdapter(
+                child: ContentList(
+                  key: PageStorageKey('trending'),
+                  title: 'Trending',
+                  contentList: trending,
+                ),
+              ),
+            ),
           ],
         ),
       ),

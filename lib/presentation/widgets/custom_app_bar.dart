@@ -52,7 +52,7 @@ class CustomAppBar extends StatelessWidget {
 
 class _AppBarButton extends StatelessWidget {
   final String title;
-  final Function onTap;
+  final void Function()? onTap;
 
   const _AppBarButton({
     Key? key,
@@ -63,7 +63,7 @@ class _AppBarButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: onTap(),
+      onTap: onTap,
       child: Text(
         title,
         style: const TextStyle(
